@@ -15,10 +15,11 @@ A NodeJS Book Store App from Zuri Training
 * Create routes
 
 ##MODELS
+
 **BOOKS**
-    * title
-    * author
-    * category
-    * purchaseCount
-    * imageURL
-    * description
+   * title
+   * author
+   * category
+   * purchaseCount
+   * imageURL
+   * description
