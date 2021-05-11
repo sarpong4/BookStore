@@ -14,7 +14,7 @@ A NodeJS Book Store App from Zuri Training
 * Create schemas
 * Create routes
 
-##MODELS
+## MODELS
 
 **BOOKS**
    * title
